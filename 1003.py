@@ -2,4 +2,4 @@ a=int(input())
 b=int(input())
 
 
-print("SOMA =",a+b)
+print("SOMA =",a+b) #sum
